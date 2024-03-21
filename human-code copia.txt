@@ -1,0 +1,52 @@
+
+lista film [film-a,film-b ecc ]
+lista serie [serietv-a, serietv-b ecc]
+
+
+
+0.Hai sonno?
+    si 
+        vail n.8
+    alitrimenti
+        passa al n. 1 
+1. Vuoi guardare qualcosa su netflix?
+    si 
+        vai al n. 2
+    altirmenti 
+        vai al n. 0.3
+2. Quanto tempo a disposizione?
+    hai più di un ora ?
+        si
+            ti consiglio un film 
+            passa al n. 3
+    altrimenti 
+        ti consiglio una serie
+        passa al n.4
+3.  Scegli il film dalla lista film
+        hai scelto il film?
+            vai al n.5
+        altrimenti 
+            vai al n.3    
+    
+4. Scegli una serie-tv della lista  serie  
+       hai scelto la serie?
+            vai al n.5
+        altrimenti 
+            vai al n.4    
+5. riproduci 
+6. dopo 1 ora di inattività stai ancora guardando?
+    si 
+        continua a riprodurre 
+    altirmenti
+    vai al n.8
+7. fine riproduzione 
+    vai al n.0
+8. spegni 
+
+
+
+
+
+
+
+
